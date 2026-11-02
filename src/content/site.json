@@ -1,8 +1,8 @@
 [
   {
     "id": "settings",
-    "brand": "marby",
-    "tagline": "Boutique residential brokerage",
+    "brand": "Tan Stuff",
+    "tagline": "Just Tan's Things",
     "consultation": {
       "label": "Get a consultation",
       "href": "/contact"
@@ -109,8 +109,8 @@
   {
     "id": "home",
     "hero": {
-      "title": "marby",
-      "text": "Half of what we sell never reaches a public listing. A discreet residential brokerage representing buyers and sellers in New York, San Francisco, and London — by introduction since 2009.",
+      "title": "The Tan Corner",
+      "text": "A visual diary of my life and art. Here, I blend my passion for digital creation with real-world experiences and inspiring discoveries.",
       "video": "/assets/hero.mp4",
       "poster": "/assets/site/TBN2T3SDKf7U2Zk9enRTbFXuNo.webp"
     },

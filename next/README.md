@@ -1,4 +1,4 @@
-# Marby for Next.js
+# Tan for Next.js
 
 Next.js 16 (App Router, React 19, TypeScript), exported as a static site. Node 20.9 or later.
 

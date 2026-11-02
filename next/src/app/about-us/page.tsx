@@ -14,8 +14,8 @@ export default async function AboutUs() {
   return (
     <>
       <Base route="/about-us/"
-        title="About Marby — Our Story & Real Estate Expertise"
-        description="Meet the Marby team — experienced real estate professionals dedicated to helping you buy, sell, and invest with confidence. Learn about our values and approach."
+        title="About Tan — Our Story & Real Estate Expertise"
+        description="Meet the Tan team — experienced real estate professionals dedicated to helping you buy, sell, and invest with confidence. Learn about our values and approach."
       >
         <PageHeader label={about.header.label} title={about.header.title} />
         <AboutVision />

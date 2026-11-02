@@ -8,7 +8,7 @@ import { fileURLToPath } from 'node:url';
 import { createRequire } from 'node:module';
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const { parse, serialize } = createRequire(join(ROOT, 'next', 'package.json'))('parse5');
-const ASTRO_SITE = 'https://marby.startfrom.co', NEXT_SITE = 'https://marby-next.startfrom.co';
+const ASTRO_SITE = 'https://Tan.startfrom.co', NEXT_SITE = 'https://Tan-next.startfrom.co';
 const { execSync } = await import('node:child_process');
 const pages = execSync('find . -name index.html -o -name 404.html', { cwd: (process.env.DIST || join(ROOT, 'dist')) }).toString().trim().split('\n').sort();
 

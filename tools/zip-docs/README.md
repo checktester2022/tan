@@ -1,6 +1,6 @@
-# Marby: real estate theme for Astro and Next.js
+# Tan: real estate theme for Astro and Next.js
 
-Two builds of the same site, a boutique real estate brokerage called Marby. Pick one. They are visually identical, and that is checked element by element on every page at desktop, tablet and phone widths.
+Two builds of the same site, a boutique real estate brokerage called Tan. Pick one. They are visually identical, and that is checked element by element on every page at desktop, tablet and phone widths.
 
 | Folder | Stack | Use it when |
 | --- | --- | --- |

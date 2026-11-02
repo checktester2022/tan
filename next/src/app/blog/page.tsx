@@ -13,8 +13,8 @@ export default async function Index() {
   return (
     <>
       <Base route="/blog/"
-        title="Real Estate Insights & News — Marby Blog"
-        description="Expert advice on buying, selling, and investing in real estate. Stay up to date with market trends, property guides, and lifestyle inspiration from Marby."
+        title="Real Estate Insights & News — Tan Blog"
+        description="Expert advice on buying, selling, and investing in real estate. Stay up to date with market trends, property guides, and lifestyle inspiration from Tan."
       >
         <PageHeader label={blog.header.label} title={blog.header.title} labelClass="t-caption" />
         <section className="bgrid" data-filter="">

@@ -11,8 +11,8 @@ export default async function Contact() {
   return (
     <>
       <Base route="/contact/"
-        title="Contact Marby — Get in Touch"
-        description="Ready to find your next property? Reach out to the Marby team for a free consultation. We're here to guide you through every step of the process."
+        title="Contact Tan — Get in Touch"
+        description="Ready to find your next property? Reach out to the Tan team for a free consultation. We're here to guide you through every step of the process."
       >
         <PageHeader label={contact.header.label} title={contact.header.title} />
         <Offices />

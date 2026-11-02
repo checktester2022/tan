@@ -12,7 +12,7 @@ import { SpeedInsights } from '@vercel/speed-insights/next';
  * adds the charset and viewport meta itself; the font stylesheets and the
  * "js" class script live in src/app/layout.tsx.
  */
-const SITE = process.env.NEXT_PUBLIC_SITE_URL || 'https://marby-next.startfrom.co';
+const SITE = process.env.NEXT_PUBLIC_SITE_URL || 'https://Tan-next.startfrom.co';
 
 interface Props {
   /** The page path, with its trailing slash. The generator passes it. */

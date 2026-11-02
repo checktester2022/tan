@@ -27,7 +27,7 @@ export default async function Slug({ params }: { params: Promise<{ slug: string 
 
   return (
     <>
-      <Base route={`/blog/${requested}/`} title={`${d.title} — Marby Blog`} description={`Read ${d.title} from the Marby real estate blog.`} image={d.image}>
+      <Base route={`/blog/${requested}/`} title={`${d.title} — Tan Blog`} description={`Read ${d.title} from the Tan real estate blog.`} image={d.image}>
         <article>
           <header className="ahead">
             <nav className="crumbs" aria-label="Breadcrumb">

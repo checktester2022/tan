@@ -35,7 +35,7 @@ export default async function Slug({ params }: { params: Promise<{ slug: string 
   return (
     <>
       <Base route={`/property/${requested}/`}
-        title={`${d.name} — Marby Real Estate`}
+        title={`${d.name} — Tan Real Estate`}
         description={`${d.name} in ${d.location}. ${d.area}, ${d.buildYear}. View full details, gallery, and schedule a private showing.`}
         image={d.image}
       >

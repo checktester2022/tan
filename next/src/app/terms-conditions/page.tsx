@@ -9,7 +9,7 @@ export default async function TermsConditions() {
 
   return (
     <>
-      <Base route="/terms-conditions/" title="Terms & Conditions | Marby" description="Read the terms and conditions for using the Marby website.">
+      <Base route="/terms-conditions/" title="Terms & Conditions | Tan" description="Read the terms and conditions for using the Tan website.">
         <PageHeader label={t.label} title={t.title} />
         <section className="terms" data-appear="mount" style={sx("--appear-delay:0.6s")}>
           <div className="terms__text">

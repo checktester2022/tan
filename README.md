@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://startfrom.co/?utm_source=github&utm_medium=readme&utm_campaign=marby"><img alt="Marby: A quiet, editorial real estate template for Astro and Next.js. Free and MIT licensed, by Startfrom." src="./.github/assets/cover.jpg" width="100%"></a>
+  <a href="https://startfrom.co/?utm_source=github&utm_medium=readme&utm_campaign=Tan"><img alt="Tan: A quiet, editorial real estate template for Astro and Next.js. Free and MIT licensed, by Startfrom." src="./.github/assets/cover.jpg" width="100%"></a>
 </p>
 
 <p align="center">
@@ -10,16 +10,16 @@
 </p>
 
 <p align="center">
-  <a href="https://marby.startfrom.co"><b>Astro demo</b></a>
+  <a href="https://Tan.startfrom.co"><b>Astro demo</b></a>
   &nbsp;·&nbsp;
-  <a href="https://marby-next.startfrom.co"><b>Next.js demo</b></a>
+  <a href="https://Tan-next.startfrom.co"><b>Next.js demo</b></a>
   &nbsp;·&nbsp;
-  <a href="https://startfrom.co/?utm_source=github&utm_medium=readme&utm_campaign=marby"><b>Startfrom</b></a>
+  <a href="https://startfrom.co/?utm_source=github&utm_medium=readme&utm_campaign=Tan"><b>Startfrom</b></a>
   &nbsp;·&nbsp;
-  <a href="https://buy.polar.sh/polar_cl_C7mCmNfCQK9xTynrq5u0t4I4CpMoRc5tN5UCB3mx56l?utm_source=github&utm_medium=readme&utm_campaign=marby"><b>All Astro Themes</b></a>
+  <a href="https://buy.polar.sh/polar_cl_C7mCmNfCQK9xTynrq5u0t4I4CpMoRc5tN5UCB3mx56l?utm_source=github&utm_medium=readme&utm_campaign=Tan"><b>All Astro Themes</b></a>
 </p>
 
-# Marby, a real estate theme for Astro and Next.js
+# Tan, a real estate theme for Astro and Next.js
 
 A quiet, editorial theme for boutique real estate agencies and brokerages: property listings with filters, detail pages with photo galleries, a blog, team and office pages. Static output, no UI framework: every interaction is a small vanilla TypeScript module.
 

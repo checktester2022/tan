@@ -191,7 +191,7 @@ function convert(file) {
       body.push(text);
     }
   }
-  const env = (t) => t.replace(/import\.meta\.env\.SITE\b/g, "(process.env.NEXT_PUBLIC_SITE_URL || 'https://marby-next.startfrom.co')").replace(/import\.meta\.env\.PUBLIC_/g, 'process.env.NEXT_PUBLIC_');
+  const env = (t) => t.replace(/import\.meta\.env\.SITE\b/g, "(process.env.NEXT_PUBLIC_SITE_URL || 'https://Tan-next.startfrom.co')").replace(/import\.meta\.env\.PUBLIC_/g, 'process.env.NEXT_PUBLIC_');
   if (/import\.meta\.env\.(?!PUBLIC_)/.test(body.join('\n'))) err(rel, 'import.meta.env other than PUBLIC_*');
   let code = env(body.join('\n'));
   if (/\bAstro\.[a-z]/.test(code)) err(rel, 'Astro.* used in frontmatter code');

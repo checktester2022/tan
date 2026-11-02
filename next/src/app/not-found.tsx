@@ -9,7 +9,7 @@ export default async function NotFound() {
 
   return (
     <>
-      <Base route="/404/" title="Page Not Found | Marby" description="The page you're looking for doesn't exist or has been moved." withForm={false} noindex>
+      <Base route="/404/" title="Page Not Found | Tan" description="The page you're looking for doesn't exist or has been moved." withForm={false} noindex>
         <section className="nf" data-dark="">
           <img className="nf__bg" src={nf.image} alt="" />
           <div className="scrim" aria-hidden="true"></div>

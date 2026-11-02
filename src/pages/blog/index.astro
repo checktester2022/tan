@@ -8,8 +8,8 @@ const blog = await site('blog');
 const posts = (await getCollection('blog')).sort((a, b) => a.data.order - b.data.order);
 ---
 <Base
-  title="Real Estate Insights & News — Marby Blog"
-  description="Expert advice on buying, selling, and investing in real estate. Stay up to date with market trends, property guides, and lifestyle inspiration from Marby."
+  title="Real Estate Insights & News — Tan Blog"
+  description="Expert advice on buying, selling, and investing in real estate. Stay up to date with market trends, property guides, and lifestyle inspiration from Tan."
 >
   <PageHeader label={blog.header.label} title={blog.header.title} labelClass="t-caption" />
   <section class="bgrid" data-filter>

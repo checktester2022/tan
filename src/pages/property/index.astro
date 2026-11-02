@@ -13,7 +13,7 @@ const items = (await getCollection('properties')).sort((a, b) => a.data.number.l
 const categories = [...new Set(items.map((p) => p.data.category))].sort((a, b) => (a === 'for rent' ? -1 : 1));
 ---
 <Base
-  title="Properties for Sale — Marby Real Estate"
+  title="Properties for Sale — Tan Real Estate"
   description="Browse our exclusive selection of luxury homes, apartments, and estates. Filter by location, size, and price to find the property that fits your vision."
 >
   <section class="phero" data-dark>

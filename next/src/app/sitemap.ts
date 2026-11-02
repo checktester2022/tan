@@ -2,7 +2,7 @@ import type { MetadataRoute } from 'next';
 import { getCollection } from '@/lib/content';
 
 export const dynamic = 'force-static';
-const SITE = process.env.NEXT_PUBLIC_SITE_URL || 'https://marby-next.startfrom.co';
+const SITE = process.env.NEXT_PUBLIC_SITE_URL || 'https://Tan-next.startfrom.co';
 
 /** Hand-written: every page except the 404, with trailing slashes, like @astrojs/sitemap in the Astro build. */
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {

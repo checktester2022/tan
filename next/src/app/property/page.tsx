@@ -18,7 +18,7 @@ export default async function Index() {
   return (
     <>
       <Base route="/property/"
-        title="Properties for Sale — Marby Real Estate"
+        title="Properties for Sale — Tan Real Estate"
         description="Browse our exclusive selection of luxury homes, apartments, and estates. Filter by location, size, and price to find the property that fits your vision."
       >
         <section className="phero" data-dark="">

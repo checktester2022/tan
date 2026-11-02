@@ -47,7 +47,7 @@
       }
     ],
     "footer": {
-      "description": "A boutique brokerage founded in 2009, representing buyers and sellers of exceptional properties.",
+      "description": "This is where I collect the pieces of my life. From digital art and creative experiments to everyday stories and personal inspirations.",
       "cta": {
         "label": "Contact us",
         "href": "/contact"
@@ -88,7 +88,7 @@
         "label": "Terms & Conditions",
         "href": "/terms-conditions"
       },
-      "copyright": "© 2026 Marby. All rights reserved.",
+      "copyright": "© 2026 Tan. All rights reserved.",
       "socialTitle": "Keep in touch"
     },
     "contact": {
@@ -119,7 +119,7 @@
       "image": "/assets/site/zoANF4gCl0veXWAJdOn0FvSQRJE.webp",
       "imageAlt": "Editorial real estate image used on the homepage",
       "title": "Over ten years, compounding quietly",
-      "text": "Marby was founded in 2009 with a quiet conviction that residential real estate had become too quick, too transactional, and too uniform. In our first year we represented eleven clients. In our most recent we represented forty-three. The work has grown only at the pace at which we could keep it considered.",
+      "text": "Tan was founded in 2009 with a quiet conviction that residential real estate had become too quick, too transactional, and too uniform. In our first year we represented eleven clients. In our most recent we represented forty-three. The work has grown only at the pace at which we could keep it considered.",
       "cta": {
         "label": "Read my story",
         "href": "/about-us"
@@ -188,7 +188,7 @@
       "label": "[ Testimonials ]",
       "items": [
         {
-          "quote": "\"We'd been searching for the right property in Greenwich for almost two years. Marby came in, understood exactly what we were looking for, and within six weeks we were under contract on something better than we'd imagined.\"",
+          "quote": "\"We'd been searching for the right property in Greenwich for almost two years. Tan came in, understood exactly what we were looking for, and within six weeks we were under contract on something better than we'd imagined.\"",
           "name": "Daniel Forsythe",
           "location": "East Side, LA",
           "images": [
@@ -198,7 +198,7 @@
           ]
         },
         {
-          "quote": "\"Sold our townhouse in the West Village through Marby after a recommendation from a friend. The editorial presentation they put together was stunning — professional photography, a proper campaign. We got three offers above asking in the first week.\"",
+          "quote": "\"Sold our townhouse in the West Village through Tan after a recommendation from a friend. The editorial presentation they put together was stunning — professional photography, a proper campaign. We got three offers above asking in the first week.\"",
           "name": "Emily Smith",
           "location": "New York, NY",
           "images": [
@@ -208,7 +208,7 @@
           ]
         },
         {
-          "quote": "\"We've worked with a lot of property managers over the years across our portfolio. Marby's management team is in a different league — proactive, transparent, and genuinely invested in the assets. Seventeen years of experience shows in how they operate day to day.\"",
+          "quote": "\"We've worked with a lot of property managers over the years across our portfolio. Tan's management team is in a different league — proactive, transparent, and genuinely invested in the assets. Seventeen years of experience shows in how they operate day to day.\"",
           "name": "Marcus & Lena Beaumont",
           "location": "Holland Park, London",
           "images": [
@@ -237,7 +237,7 @@
         {
           "title": "off-market access",
           "number": "[ 02 ]",
-          "text": "Roughly half of what changes hands at Marby never reaches a public portal. Discretion is not a feature — it is the practice."
+          "text": "Roughly half of what changes hands at Tan never reaches a public portal. Discretion is not a feature — it is the practice."
         },
         {
           "title": "editorial presentation",
@@ -275,7 +275,7 @@
         "post": "partner",
         "city": "San Francisco",
         "image": "/assets/site/nTvLN3RvxKgupZN1BenkRf4j5c.webp",
-        "alt": "Theo Marchetti, partner at Marby, San Francisco"
+        "alt": "Theo Marchetti, partner at Tan, San Francisco"
       },
       {
         "number": "[02]",
@@ -283,7 +283,7 @@
         "post": "senior advisor",
         "city": "London",
         "image": "/assets/site/WxSMsPHdbTFpWCoaYQwqSzSrkgU.webp",
-        "alt": "Imogen Hart, senior advisor at Marby, London"
+        "alt": "Imogen Hart, senior advisor at Tan, London"
       },
       {
         "number": "[03]",
@@ -291,7 +291,7 @@
         "post": "advisor",
         "city": "New York",
         "image": "/assets/site/0sI5VagrmB1EzuiksRgzRaUAGuw.webp",
-        "alt": "Julian Okafor, advisor at Marby, New York"
+        "alt": "Julian Okafor, advisor at Tan, New York"
       },
       {
         "number": "[04]",
@@ -299,7 +299,7 @@
         "post": "head of off-market",
         "city": "New York",
         "image": "/assets/site/n8URjE2xYKhSYFVM96y1lgUJwLQ.webp",
-        "alt": "Sasha Reinhardt, head of off-market at Marby, New York"
+        "alt": "Sasha Reinhardt, head of off-market at Tan, New York"
       },
       {
         "number": "[05]",
@@ -307,7 +307,7 @@
         "post": "senior advisor",
         "city": "San Francisco",
         "image": "/assets/site/I7A3AdDy2L9N4RMQXRxk5g1y2IQ.webp",
-        "alt": "Henry Tant, senior advisor at Marby, San Francisco"
+        "alt": "Henry Tant, senior advisor at Tan, San Francisco"
       }
     ]
   },
@@ -324,7 +324,7 @@
     "imageAlt": "Editorial real estate image used on the homepage",
     "general": [
       {
-        "q": "what does the buying process at Marby look like?",
+        "q": "what does the buying process at Tan look like?",
         "a": "It starts with a 30-minute conversation—no questionnaire, no obligation. Your advisor curates listings, arranges viewings, and guides you through every step to closing. Median engagement: 11 months."
       },
       {
@@ -358,8 +358,8 @@
         "a": "Often, yes. A significant portion of our transactions happen off-market. If you're registered with us, you'll hear about relevant opportunities before they're publicly listed."
       },
       {
-        "q": "what makes Marby different from a large brokerage?",
-        "a": "Scale works against intimacy. At Marby, every client works directly with a partner — not an associate, not an assistant. That continuity changes the quality of advice you receive."
+        "q": "what makes Tan different from a large brokerage?",
+        "a": "Scale works against intimacy. At Tan, every client works directly with a partner — not an associate, not an assistant. That continuity changes the quality of advice you receive."
       },
       {
         "q": "do you work outside of your primary markets?",
@@ -396,7 +396,7 @@
     },
     "years": {
       "label": "[ FOREWORD ]",
-      "text": "Marby was founded in 2009 to represent residential real estate the way it deserves to be, slowly, attentively, and only for as many clients as we can know by name. Seventeen years later, that has not changed. The list has grown. The standard has not.",
+      "text": "Tan was founded in 2009 to represent residential real estate the way it deserves to be, slowly, attentively, and only for as many clients as we can know by name. Seventeen years later, that has not changed. The list has grown. The standard has not.",
       "milestones": [
         {
           "title": "First milestone",
@@ -416,7 +416,7 @@
         {
           "title": "The Journal",
           "year": "2022",
-          "text": "Marby’s editorial publication launches — market notes, essays, and quarterly letters, written in-house."
+          "text": "Tan’s editorial publication launches — market notes, essays, and quarterly letters, written in-house."
         },
         {
           "title": "Now",
@@ -439,7 +439,7 @@
         {
           "label": "[ 02 ]",
           "title": "discretion is a practice, not a favour",
-          "text": "Roughly half of what changes hands at Marby never reaches a public portal. We don’t talk about closings unless asked, and we don’t ask to be quoted in the press."
+          "text": "Roughly half of what changes hands at Tan never reaches a public portal. We don’t talk about closings unless asked, and we don’t ask to be quoted in the press."
         },
         {
           "label": "[ 03 ]",
@@ -453,7 +453,7 @@
     "id": "contact",
     "header": {
       "label": "[ Contact ]",
-      "title": "get in touch with Marby"
+      "title": "get in touch with Tan"
     },
     "offices": [
       {
@@ -596,15 +596,15 @@
     "title": "terms & conditions",
     "sections": [
       {
-        "title": "1.  About Marby",
+        "title": "1.  About Tan",
         "body": [
-          "Marby is an online platform that allows users to browse luxury property listings and connect with real estate agents. We are not a real estate broker, agent, or party to any transaction between users and agents or property owners."
+          "Tan is an online platform that allows users to browse luxury property listings and connect with real estate agents. We are not a real estate broker, agent, or party to any transaction between users and agents or property owners."
         ]
       },
       {
         "title": "2.  Eligibility",
         "body": [
-          "You must be at least 18 years old and legally capable of entering into binding contracts to use Marby."
+          "You must be at least 18 years old and legally capable of entering into binding contracts to use Tan."
         ]
       },
       {
@@ -613,7 +613,7 @@
           "You agree to:"
         ],
         "list": [
-          "Use Marby only for lawful purposes.",
+          "Use Tan only for lawful purposes.",
           "Provide accurate information when contacting agents or creating an account.",
           "Not misuse, copy, scrape, or interfere with the platform or its content."
         ]
@@ -621,43 +621,43 @@
       {
         "title": "4. Listings & Information",
         "body": [
-          "All property listings, images, prices, and descriptions are provided by third parties (agents, agencies, or owners). Marby does not guarantee the accuracy, completeness, or availability of any listing. Always verify details directly with the agent before making decisions."
+          "All property listings, images, prices, and descriptions are provided by third parties (agents, agencies, or owners). Tan does not guarantee the accuracy, completeness, or availability of any listing. Always verify details directly with the agent before making decisions."
         ]
       },
       {
         "title": "5. Connecting with Agents",
         "body": [
-          "Marby facilitates introductions between users and agents but is not responsible for any communication, agreement, transaction, or dispute that results. Any contract you enter into is solely between you and the agent or seller."
+          "Tan facilitates introductions between users and agents but is not responsible for any communication, agreement, transaction, or dispute that results. Any contract you enter into is solely between you and the agent or seller."
         ]
       },
       {
         "title": "6. Intellectual Property",
         "body": [
-          "All content on Marby — including the logo, brand, design, and software — belongs to Marby or its licensors. You may not reproduce, distribute, or use it without written permission"
+          "All content on Tan — including the logo, brand, design, and software — belongs to Tan or its licensors. You may not reproduce, distribute, or use it without written permission"
         ]
       },
       {
         "title": "7. User Content",
         "body": [
-          "If you submit reviews, inquiries, or other content, you grant Marby a non-exclusive, royalty-free license to display and use it on the platform."
+          "If you submit reviews, inquiries, or other content, you grant Tan a non-exclusive, royalty-free license to display and use it on the platform."
         ]
       },
       {
         "title": "8. Disclaimer",
         "body": [
-          "Marby is provided “as is” without warranties of any kind. We do not guarantee uninterrupted, error-free service or that any property will meet your expectations."
+          "Tan is provided “as is” without warranties of any kind. We do not guarantee uninterrupted, error-free service or that any property will meet your expectations."
         ]
       },
       {
         "title": "9. Limitation of Liability",
         "body": [
-          "To the maximum extent permitted by law, Marby is not liable for any indirect, incidental, or consequential damages arising from your use of the platform, including losses related to property transactions."
+          "To the maximum extent permitted by law, Tan is not liable for any indirect, incidental, or consequential damages arising from your use of the platform, including losses related to property transactions."
         ]
       },
       {
         "title": "10. Privacy",
         "body": [
-          "Your use of Marby is also governed by our Privacy Policy, which explains how we collect and use your data."
+          "Your use of Tan is also governed by our Privacy Policy, which explains how we collect and use your data."
         ]
       }
     ]

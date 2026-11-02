@@ -13,8 +13,8 @@ export default function Index() {
   return (
     <>
       <Base route="/"
-        title="Marby — Luxury Real Estate"
-        description="Discover luxury properties and find your dream home with Marby's expert real estate team. Marby is a real estate template built with Next.js."
+        title="Stuff  — The Tan Corner"
+        description="A visual diary of my life and art. Here, I blend my passion for digital creation with real-world experiences and inspiring discoveries."
       >
         <Hero />
         <HomeAbout />
